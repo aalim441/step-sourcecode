@@ -1,7 +1,7 @@
 # step-sourcecode
 ***
-#include <stdio.h>
 ```
+#include <stdio.h>
 int main(void) {
 	/*
 		입력 받을 데이터 개수를 의미하는 n 변수,
